@@ -1,6 +1,10 @@
 # California Housing Dataset Analysis
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NusratBegum/California_Housing_Dataset_Analysis/blob/main/Nusrat_Project.ipynb)
+**Notebook:** [view with all outputs (nbviewer)](https://nbviewer.org/github/NusratBegum/California-Housing-Dataset-Analysis/blob/main/Nusrat_Project.ipynb) · [open in Colab](https://colab.research.google.com/github/NusratBegum/California-Housing-Dataset-Analysis/blob/main/Nusrat_Project.ipynb)
+
+![Median house value by location](docs/preview-1.png)
+
+![Median income vs median house value](docs/preview-2.png)
 
 ## 📊 Project Overview
 
